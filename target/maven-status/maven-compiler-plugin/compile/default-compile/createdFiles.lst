@@ -1,0 +1,3 @@
+com\demo\productrest\bean\Product.class
+com\demo\productrest\service\ProductoRestService.class
+com\demo\productrest\service\ProductRestClient.class
